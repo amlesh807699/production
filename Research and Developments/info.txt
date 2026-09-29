@@ -4,7 +4,7 @@
 
 ### 1. Project Overview
 
-The objective of this project was to design and develop a modern, professional, responsive website for **Prodesk IT**, a digital marketing and technology company.
+The objective of this project was to design and develop a modern, professional, responsive website for Prodesk IT, a digital marketing and technology company.
 
 The website was designed to present the company's services, capabilities, business information, contact details, and overall digital presence in a clear and professional manner.
 
